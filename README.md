@@ -17,7 +17,7 @@
 
 
 
-![Snake animation](https://github.com/http-AbnerSantin/http-AbnerSantin/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/http-AbnerSantin/blob/output/github-contribution-grid-snake.svg)
 
 
 
