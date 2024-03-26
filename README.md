@@ -1,7 +1,5 @@
 ### Oi, meu nome é Ábner 👋
 
 
-
-![Ábner GitHub stats](https://github-readme-stats.vercel.app/api?username=http-AbnerSantin&show_icons=true&theme=dracula)
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
 
