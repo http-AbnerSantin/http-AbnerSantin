@@ -11,7 +11,6 @@
 
 <img src="giphy.gif" alt="gif">
 
-![Snake animation](https://github.com/Sn0wye/Sn0wye/blob/output/github-contribution-grid-snake.svg)
 
 
 
