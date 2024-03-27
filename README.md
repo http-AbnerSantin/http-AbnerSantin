@@ -1,20 +1,17 @@
-### Oi, meu nome é Ábner 👋
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40"/>
+<h2>Olá! Eu sou o Ábner Santin 📍😸</h2>
 
-## Contatos:
+![Abner GitHub stats](https://github-readme-stats.vercel.app/api?username=http-AbnerSantin&show_icons=true&theme=dark)
 
-<div>
-<a href="https://instagram.com/seu-usuário-instagram-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:contato@"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
+<h3>Tecnologias que eu uso no meu dia a dia. 💻🕹️</h3>
+<hr>
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,javascript,html,css,git,linux,vscode" />
+  </a>
 
-<div>
-<a href="https://github.com/http-AbnerSantin">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=http-AbnerSantin&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+<img src="giphy.gif" alt="gif">
 
-
+![Snake animation](https://github.com/Sn0wye/Sn0wye/blob/output/github-contribution-grid-snake.svg)
 
 
 
