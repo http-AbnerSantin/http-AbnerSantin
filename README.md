@@ -6,7 +6,7 @@
 <hr>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,javascript,html,css,git,linux,vscode" />
+    <img src="https://skillicons.dev/icons?i=php,javascript,html,css,git,linux,vscode,mysql" />
   </a>
 
 <img src="giphy.gif" alt="gif">
